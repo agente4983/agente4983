@@ -9,6 +9,6 @@ Me especializo en el desarrollo de herramientas de Inteligencia Artificial y pla
 Creo herramientas funcionales, bilingües y seguras. El código abierto es la prueba de un trabajo real, sin intermediarios ni falsas promesas.
 
 **Proyectos principales:**
-- **El Guardián:** Plataforma de Inteligencia Artificial (tipo chat) que permite interactuar con modelos de IA y descargar las respuestas en formato PDF.
-- **Panda Swap:** Pasarela de intercambio descentralizado en la red de solana.
--prime ledger swap; Plataforma de intercambio de criptomonedas en la red de Bitcoin.
+- **El Guardián:** Plataforma de Inteligencia artificial tipo chat que permite interactuar con modelos de IA y descargar las respuestas en formato pdf.
+- **Panda Swap:** Pasarela de intercambio descentralizada.
+- **Prime Ledger Swap:** Plataforma de intercambio de criptomonedas en la red de Bitcoin.
