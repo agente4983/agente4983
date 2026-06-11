@@ -10,4 +10,5 @@ Creo herramientas funcionales, bilingües y seguras. El código abierto es la pr
 
 **Proyectos principales:**
 - **El Guardián:** Plataforma de Inteligencia Artificial (tipo chat) que permite interactuar con modelos de IA y descargar las respuestas en formato PDF.
-- **Panda Swap:** Pasarela de intercambio descentralizado.
+- **Panda Swap:** Pasarela de intercambio descentralizado en la red de solana
+-prime ledger swap plataforma de intercambio de criptomonedas de la red de bitcoin
