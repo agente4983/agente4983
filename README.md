@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Romina.
 
-<!--
-**agente4983/agente4983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrolladora autodidacta y creadora de plataformas tecnológicas.
 
-Here are some ideas to get you started:
+Mi trabajo se basa en la convicción, el esfuerzo y la transparencia. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me especializo en el desarrollo de herramientas de Inteligencia Artificial y plataformas orientadas al sector financiero descentralizado.
+
+Creo herramientas funcionales, bilingües y seguras. El código abierto es la prueba de un trabajo real, sin intermediarios ni falsas promesas.
+
+**Proyectos principales:**
+- **El Guardián:** Plataforma de Inteligencia Artificial (tipo chat) que permite interactuar con modelos de IA y descargar las respuestas en formato PDF.
+- **Panda Swap:** Pasarela de intercambio descentralizado.
